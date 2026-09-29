@@ -11,6 +11,8 @@ public class Program1 {
 		Object[][] obj = new Object[3][2];
 		obj[0][0] = "username1";
 		obj[0][1]= "password1";
+
+		System.out.println("Heello run");
 		
 		obj[1][0] = "username2";
 		obj[1][1] = "password2";
