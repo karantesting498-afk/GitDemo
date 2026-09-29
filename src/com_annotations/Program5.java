@@ -8,6 +8,9 @@ public class Program5 {
 	public void run()
 	{
 		System.out.println("WEB RUN");
+
+		System.out.println("Git Run");
+
 	}
 
 }
