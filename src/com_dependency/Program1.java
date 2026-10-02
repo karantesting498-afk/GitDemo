@@ -9,6 +9,8 @@ public class Program1 {
 	public void login()
 	{
 		System.out.println("Web Login");
+
+		System.out.println("branch 1 code");
 	}
 	
 	@Test(dependsOnMethods = "login")
